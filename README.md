@@ -1,9 +1,13 @@
 - 👋 Hi, I’m Achintha, an Electronic and Robotics enthusiast
 - 🔭 Currently I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+- ❤ I love electronics, robotics, industrial automation, programming & automobile engineering.
+- 👨‍🎓 After graduation I will join electronics industry and sharpen my knowledge with sound exerience.
+- 🎯 My ambition is to build my country over my shoulders.
+<!--
 - 👀 I’m interested in electronics, robotics and industrial automation
 - 🌱 I’m an electronics and telecommunication engineering undergraduate
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ...  -->
 
 ---
 
