@@ -29,6 +29,13 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/29420733/70393939-c5821d80-19e7-11ea-8ebd-daaadd856287.png"></code>
+
+---
+
+### *Current progress*
+| <a href="https://github.com/achintha96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=achintha96&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Achintha's github stats" /></a> | <a href="https://github.com/achintha96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintha96&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ---
 
 ### *Wanna reach me?*
@@ -47,3 +54,10 @@
 achintha96/achintha96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=gruvbox&line_height=27&count_private=true&show_owner=false" />
+</a>
+-->
