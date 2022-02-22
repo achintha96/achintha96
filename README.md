@@ -19,6 +19,7 @@
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
+<a href="https://github.com/achintha96/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintha96&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" /></a> 
 
 
 **Tools        :**
@@ -29,14 +30,16 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/27867704/37542893-13732d8a-2936-11e8-9dba-0f618abe8331.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/29420733/70393939-c5821d80-19e7-11ea-8ebd-daaadd856287.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/29420733/70393939-c5821d80-19e7-11ea-8ebd-daaadd856287.png"></code> 
 
+
+<!--
 ---
 
 ### *Current progress*
 | <a href="https://github.com/achintha96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=achintha96&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Achintha's github stats" /></a> | <a href="https://github.com/achintha96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintha96&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
 ---
 
 ### *Wanna reach me?*
