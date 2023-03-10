@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Achintha, an Electronic and Robotics enthusiast.
 - 🔭 Currently I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 - ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Electronics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Robotics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Industrial%20Automation-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Automobile%20Engineering-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Programming-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Problem%20Solving-blue)]().
-- 👨‍🎓 After graduation I will join electronics industry and sharpen my knowledge with sound exerience.
+- 👨‍🎓 After graduation I will join electronics industry and sharpen my knowledge with sound experience.
 - 🎯 My ambition is to build my country over my shoulders.
 <!--
 - 👀 I’m interested in electronics, robotics and industrial automation
